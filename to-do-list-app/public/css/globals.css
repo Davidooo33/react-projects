@@ -1,0 +1,13 @@
+.logo {
+    height: 150px;
+}
+
+.titleStyle {
+    font-style: italic;
+    font-size: x-large;
+    color: darkred;
+}
+
+body {
+    background-color: lightsteelblue;
+}
